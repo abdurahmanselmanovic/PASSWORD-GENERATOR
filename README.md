@@ -10,6 +10,6 @@ Basic python program. Program gives you randomly generated password. Password mi
 
 ### If program dont work you need to install/reinstall libraries.
 
-pip install pysimplegui <br>
-pip install pyperclip <br>
-pip install notify-py
+  pip install pysimplegui <br>
+  pip install pyperclip <br>
+  pip install notify-py
