@@ -1,3 +1,5 @@
+# PASSWORD-GENERATOR
+
 Basic python program. Program gives you randomly generated password. Password might contain symbols, numbers and letters.
 
 ### Python libraries used: 
